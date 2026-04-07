@@ -60,7 +60,6 @@ Det finnes per nå fire grupper med testbrukere
 
 | E-POST                              | NAVN                | SENTRAL               | PASSORD  | GRUPPER.                                               |
 | ----------------------------------- | ------------------- | --------------------- | -------- | ------------------------------------------------------ |
-| f_z994064.e_z994064@trygdeetaten.no | f_z994064.e_z994064 | 2970 - NAV IKT DRIFT  | SortBil3 | hotsak-brukere,                                        |
 | f_z994074.e_z994074@trygdeetaten.no | f_z994074.e_z994074 | 2970 - NAV IKT DRIFT  | SortBil3 | hotsak-brukere,                                        |
 | f_z994377.e_z994377@trygdeetaten.no | f_z994377.e_z994377 | 2970 - NAV IKT DRIFT  | SortBil3 | hotsak-brukere, brilleadmin-brukere, Fortrolig_Adresse |
 | f_z991054.e_z991054@trygdeetaten.no | f_z991054.e_z991054 | 2970 - NAV IKT DRIFT  | SortBil3 | hotsak-brukere, brilleadmin-brukere, Fortrolig_Adresse, Egne ansatte |
