@@ -28,6 +28,7 @@ Det finnes per nå fire grupper med testbrukere
 | 13820599335 | KVADRATISK FAKTURA | STAD    | Bruk Test-ID | 18 år                             |
 | 26928698180 | FROM ANDRIK        | STAD    | Bruk Test-ID | 37 år                             |
 | 13811798279 | KOMPLEKS KRONE     | OSLO    | Bruk Test-ID | 8 år (bruksarena skole osv.)      |
+| 01067434656 | ?                  | ?       |------!!------| Bruker med utlånsdata i OEBS DB   |
 
 #### Teknikere
 
