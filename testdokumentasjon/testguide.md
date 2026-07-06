@@ -70,6 +70,23 @@ Det finnes per nå fire grupper med testbrukere
 | f_z994951.e_z994951@trygdeetaten.no | f_z994951.e_z994951 | 2103 - NAV VIKAFOSSEN | SortBil3 | hotsak-brukere, Strengt_Fortrolig_Adresse              |
 
 ---
+### Delbestilling
+
+Testbrukere ved delbestillinger:
+
+#### Ved bestilling på serienr
+
+| HMSNR                               | SERIENR         
+| ----------------------------------- | -------------------|
+| 279775                              | 783144         
+
+#### Ved bestilling på brukernummer
+
+| HMSNR                               | BRUKERNR         
+| ----------------------------------- | -------------------|
+| 299409                              | 65218
+
+---
 
 ### Behovsmelding
 
