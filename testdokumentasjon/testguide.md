@@ -76,13 +76,13 @@ Testbrukere ved delbestillinger:
 
 #### Ved bestilling på serienr
 
-| HMSNR                               | SERIENR            | FØDSELSNR Bruker |
+| HMSNR                               | SERIENR            | FØDSELSNR BRUKER |
 | ----------------------------------- | -------------------|------------------|
 | 279774                              | 829993             | 01067434656      |
 
 #### Ved bestilling på brukernummer
 
-| HMSNR                               | BRUKERNR           | FØDSELSNR Bruker |
+| HMSNR                               | BRUKERNR           | FØDSELSNR BRUKER |
 | ----------------------------------- | -------------------|------------------|
 | 299409                              | 65218              | 01067434656      |
 
