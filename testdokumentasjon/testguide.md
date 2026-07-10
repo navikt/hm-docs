@@ -78,7 +78,7 @@ Testbrukere ved delbestillinger:
 
 | HMSNR                               | SERIENR         
 | ----------------------------------- | -------------------|
-| 279775                              | 783144         
+| 279774                              | 829993         
 
 #### Ved bestilling på brukernummer
 
