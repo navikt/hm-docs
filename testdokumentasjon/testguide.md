@@ -57,7 +57,7 @@ Det finnes per nå fire grupper med testbrukere
 - Merk: Legitim Pinsett blir 18år før lansering av barnebrille-løsningen!
 - Merk: Humoristik Valmue har en mor uten arbeid og ukjent adresse (men er ansett som bosatt og skal kunne søke).
 
-#### Saksbehandlere
+#### Saksbehandlere (Inkludert GOSYS)
 
 | E-POST                              | NAVN                | SENTRAL               | PASSORD  | GRUPPER.                                               |
 | ----------------------------------- | ------------------- | --------------------- | -------- | ------------------------------------------------------ |
