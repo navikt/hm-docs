@@ -106,12 +106,11 @@ Test gjerne ulike varianter av forskjellige valg.
   - Velg gjelder verdi (det er mulig å søke på flere ord med mellomrom)
   - Test de ulike valgene for å tilordne oppgave
 * Knytt til sak (digital søknad)
-  -  Hvis bruker du har sendt inn journalføringsoppgaven på ikke har åpne saker, kan du endre til en annen bruker for eksempel Kvardratisk Fakture
+  -  Hvis bruker du har sendt inn journalføringsoppgaven på ikke har åpne saker, kan du endre til en annen bruker for eksempel Kvardratisk Faktura
+  -  Test å sette en sak/oppgave på vent. Også prøv å knytte journalpost til saken. Da skal "på vent" fjernes slik at oppgaven dukker opp på saksbehandlers liste igjen.
 * Knytt til sak (papirsøknad)
   - Hvis det ikke finnes eksisterende papirsøknad saker, kan du først ta en journalføringsoppgave hvor du oppretter ny sak. Også kan du ta en ny jouralføringsoppgave og knytte til saken du lagde.
-  - Ta gjerne flere journalføringsoppgave og knytt til samme slik at saken får flere dokumenter i 
-    
-  
+  - Ta gjerne flere journalføringsoppgaver og knytt til samme sak slik at det blir en liste med dokumenter på saken. 
 
 Verifikasjon ny sak
 * Sjekk at alle verdier du satt reflekteres i saksbildet eller oppgavelisten
@@ -120,11 +119,14 @@ Verifikasjon ny sak
 * Verifiser at det kan settes behandlingsresultat og saken kan ferdigstilles.
 
 Verifikasjon knytt til sak (digital søknad) 
-* Sjekk at dokumentet vises i Dokumentboksen i behandlingspanelet
+* Saksbildet skal vise dokumentboksen i behandlingspanelet, behovsmeldingspanel og kontakinformasjonspanel skal vises som før
+* Sjekk at dokumentet vises i Dokumentboksen i behandlingspanelet (dokumentpanelet er skjult som default og man må aktivt velge dokumentet for at det skal åpnes
 * Sjekk at det er mulig å åpne dokument og at det vises i PDF visning i Dokumentpanelet
+* Sjekk at PDF kan åpnes i ny fane
 
 Verfikasjon knytt til sak (papirsøknad)
-* 
+* Saksbildet skal vise dokumentboksen i behandlingspanelet. Behovsmeldingspanelet og kontaktinformasjonspanelet skal ikke vises
+* Første dokument i saken skal vises i PDF visningen
 
 
 ### Behovsmelding
