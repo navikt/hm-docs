@@ -88,6 +88,45 @@ Testbrukere ved delbestillinger:
 
 ---
 
+### Journalføring i Hotsak 
+For testing kan du lage egne testbrukere i [Dolly](https://dolly.ekstern.dev.nav.no/) eller bruke en av testbrukerene definert over (for eksempel Berømt Aktivtet eller Kvadratisk Faktura). Bruk f_z994377.e_z994377@trygdeetaten.no
+
+Opprett journalføringsoppgaver via [testdata frontend](https://testdata-frontend.intern.dev.nav.no/) (Denne har ikke egen ansatt url og må aksesseres via Edge i "Portal for Azure Virtual Desktop" i Applikasjonsportalen hvis du ikke har naisdevice. Velg tema hjelpemidler og skjema 10-03.03. Under Avansert, velg enhet 2990.
+
+Testcaser og ting det er relevant å teste. 
+Test gjerne ulike varianter av forskjellige valg. 
+
+* Endre bruker det skal journalføres på.
+* Endre dokumenttittel
+* Legge til tags under annet innhold
+* Opprett ny sak
+  - Endre behandlingstype (Kun søknad skal tillates)
+  - Endre stønadsklassifisering (Kun dagligliv tillates)
+  - Endre mottatt dato, frist og prioritet
+  - Velg gjelder verdi (det er mulig å søke på flere ord med mellomrom)
+  - Test de ulike valgene for å tilordne oppgave
+* Knytt til sak (digital søknad)
+  -  Hvis bruker du har sendt inn journalføringsoppgaven på ikke har åpne saker, kan du endre til en annen bruker for eksempel Kvardratisk Fakture
+* Knytt til sak (papirsøknad)
+  - Hvis det ikke finnes eksisterende papirsøknad saker, kan du først ta en journalføringsoppgave hvor du oppretter ny sak. Også kan du ta en ny jouralføringsoppgave og knytte til saken du lagde.
+  - Ta gjerne flere journalføringsoppgave og knytt til samme slik at saken får flere dokumenter i 
+    
+  
+
+Verifikasjon ny sak
+* Sjekk at alle verdier du satt reflekteres i saksbildet eller oppgavelisten
+  - Tittel på dokument ble riktig i Dokumentboksen i Behandle sak 
+  - Logiske vedlegg vises 
+* Verifiser at det kan settes behandlingsresultat og saken kan ferdigstilles.
+
+Verifikasjon knytt til sak (digital søknad) 
+* Sjekk at dokumentet vises i Dokumentboksen i behandlingspanelet
+* Sjekk at det er mulig å åpne dokument og at det vises i PDF visning i Dokumentpanelet
+
+Verfikasjon knytt til sak (papirsøknad)
+* 
+
+
 ### Behovsmelding
 
 [Gå til behovsmelding](https://hjelpemidler.intern.dev.nav.no/hjelpemidler/digitalsoknadhjelpemidler/)
