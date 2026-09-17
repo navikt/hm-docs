@@ -86,6 +86,12 @@ Testbrukere ved delbestillinger:
 | ----------------------------------- | -------------------|------------------|
 | 299409                              | 65218              | 01067434656      |
 
+#### Hjelpemiddelformidler til bruk ved testing av delbestilling
+
+| FNR         | NAVN               | KOMMUNE | INNLOGGING   |
+| ----------- | ------------------ | ------- | ------------ |
+| 13820599335 | KVADRATISK FAKTURA | STAD    | Bruk Test-ID |
+
 ---
 
 ### Journalføring i Hotsak 
